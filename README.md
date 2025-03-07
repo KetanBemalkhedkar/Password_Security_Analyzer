@@ -83,11 +83,5 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 
 ---
 
-## 📩 Contact
-👨‍💻 **Developer:** *Your Name*  
-📧 **Email:** your.email@example.com  
-🔗 **GitHub:** [Your GitHub Profile](https://github.com/your-username)  
-🚀 **Project Repository:** [GitHub Repo](https://github.com/your-username/password-security-analyzer)
-
 💡 *If you find this tool useful, don't forget to ⭐ star the repository!* ⭐
 
